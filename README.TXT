@@ -1,3 +1,5 @@
+Code that fine-tunes a public PyTorch transformer to analyze news articles scraped from Yahoo Finance and predict daily stock prices and changes.
+
 by Lincoln Ledet
 12/5/24
 
