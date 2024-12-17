@@ -5,4 +5,4 @@ by Lincoln Ledet
 
 to run project insure you are in the correct project directory and type 'python final.py'
 
-![Alt Text](images/figure1.png)
+![Alt Text](images/figure1.pn)
